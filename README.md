@@ -100,14 +100,27 @@ Detail-oriented **QA Tester** with hands-on experience in **manual testing, test
 
 ---
 
+## ✨ Activity & Stats
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hongggf&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hongggf&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongggf&theme=tokyonight" />
+</p>
+
+---
 
 ## 🎯 Career Goals
 
 * Junior QA Engineer / Manual QA
 * QA Intern / Product Intern (Banking & FinTech)
 * Transition to **Automation QA**
-* FLutter Developer
 
 ---
 
@@ -118,5 +131,9 @@ Detail-oriented **QA Tester** with hands-on experience in **manual testing, test
 * Email: (Optional)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:805AD5&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff" />
+</p>
 
 ⭐ *I believe quality is not an act, it is a habit.*
