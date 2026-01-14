@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Kim Limhong
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Aspiring+QA+Engineer;Junior+Software+Engineer;Manual+%26+Automation+Testing;Flutter+%7C+Laravel+%7C+QA" />
+</p>
+
 🎯 **Aspiring QA Engineer | Junior Software Engineer**
-
-
 📍 Cambodia
 💼 Interested in **Banking, FinTech, Insurance, and Software Companies**
+
+💬 **Bio:** I am a motivated QA tester and software enthusiast. I love learning new tech, building projects, and making sure software works perfectly. Always up for a challenge and a coffee chat!
 
 ---
 
@@ -61,32 +65,57 @@ Detail-oriented **QA Tester** with hands-on experience in **manual testing, test
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
+### 🧠 Programming & OOP
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+
+### 🏦 Parabank QA Testing Project
+
+* Manual test cases & scenarios
+* Bug reports with screenshots (Jira-style)
+* Test plan & test summary report
+* Tools: Manual QA, Jira, GitHub
+
+### 🛒 E-commerce Web Application (PHP & MySQL)
+
+* Add to cart, checkout, invoice
+* Admin & customer flow
+* Backend CRUD with MySQL
+
+### 📱 Flutter Mobile Apps
+
+* State management using **GetX & BLoC**
+* Authentication flow
+* API integration
+
 ---
 
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongggf\&show_icons=true\&theme=tokyonight)
-
-
----
 
 ## 🎯 Career Goals
 
 * Junior QA Engineer / Manual QA
 * QA Intern / Product Intern (Banking & FinTech)
 * Transition to **Automation QA**
+* FLutter Developer
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/hongggf](https://github.com/hongggf)
+* GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 * LinkedIn: (Add when available)
-* Email: kimlimhong2598@gmail.com
+* Email: (Optional)
 
 ---
 
