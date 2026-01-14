@@ -126,9 +126,9 @@ Detail-oriented **QA Tester** with hands-on experience in **manual testing, test
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* LinkedIn: (Add when available)
-* Email: (Optional)
+* GitHub: [https://github.com/hongggf](https://github.com/hongggf)
+* LinkedIn:https://www.linkedin.com/in/kim-limhong-1171772b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+* Email: kimlimhong2598@gmail.com
 
 ---
 
